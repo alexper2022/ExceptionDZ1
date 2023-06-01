@@ -3,6 +3,7 @@ import org.w3c.dom.TypeInfo;
 /*
  * 1. Реализуйте 3 метода, чтобы в каждом из них получить разные исключения
  */
+
 public class Task1 {
     public static void main(String[] args) {
         try {
